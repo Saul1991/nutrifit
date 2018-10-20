@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Niramit:600');
+@import url('https://fonts.googleapis.com/css?family=Krub');
+
+* {
+  box-sizing: border-box;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    
+}
+
+body{
+    margin: 0;
+    font-family: 'Niramit', sans-serif;
+ 
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Krub', sans-serif; 
+    letter-spacing: 1.5px;
+    
+}
+
+.section__titulo{
+    text-align: center;
+    font-size: 50px;
+    color: #FBA919;
+    
+    
+}
+
+.contenedor{
+    margin: auto;
+    width: 99%;
+    
+}
+
+/*-------Info__Columna------*/
+
+.info__columna {
+  background-color: rgba(207, 123, 40, 0.8);
+  color: #fff;
+  padding: 15px;
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
